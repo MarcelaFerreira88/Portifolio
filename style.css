@@ -69,7 +69,7 @@ h1, h3{
     color:#ff4dbc ;}
 
 h2, h4{
-    color: #BE89CB;
+    color: #837f85;
 }
 
 
@@ -90,3 +90,24 @@ section ul{
 .foto-perfil:hover{
     opacity: 0.6;
 }
+
+
+
+.article-container{
+    text-align: center
+}
+
+#portfolio h4{
+    color: #661E4B;
+
+}
+
+footer{
+    background-color: #BE89CB;
+    color:#fff;
+    font-family:'Open Sans', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+
+    Height:198px
+    }
