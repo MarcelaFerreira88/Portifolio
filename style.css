@@ -94,20 +94,48 @@ section ul{
 
 
 .article-container{
-    text-align: center
+
+    text-align: center;
+    
+}
+
+.article-container p {
+    font-family:'ABeeZee';
+}
+
+#formacao p{
+    font-size: 14px;
 }
 
 #portfolio h4{
     color: #661E4B;
+    }
 
+#portfolio p{
+        font-family:'ABeeZee';
+        font-size: 14px;
+    }
+
+
+#contato{
+    background-color: #BE89CB;
+    color:#ffffff;
+    padding: 50px;
+    
+
+
+    Height:80px;  
 }
 
-footer{
-    background-color: #BE89CB;
-    color:#fff;
-    font-family:'Open Sans', sans-serif;
-    font-size: 14px;
-    text-decoration: none;
+#contato a {
+        color: #fff;
+        margin: 30px 10px;
+        text-decoration: none;
+        font-size: 14px;
+        font-family:'Open Sans', sans-serif;
+    }
 
-    Height:198px
+.email p{
+        border-bottom: #ffffff;
+
     }
